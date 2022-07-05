@@ -1,2 +1,7 @@
-﻿payload:
-  - DOMAIN-KEYWORD,youtube
+payload:
+  # 内容：私人定制代理列表
+  # 数量：4条
+  - DOMAIN-SUFFIX,playnow.com
+  - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-SUFFIX,feixiaohao.coM
+  - DOMAIN-SUFFIX,bybit
