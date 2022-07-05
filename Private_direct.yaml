@@ -1,2 +1,10 @@
-﻿payload:
-  - DOMAIN-SUFFIX,chaipip.com
+payload:
+  # 内容：私人定制直连列表
+  # 数量：5条
+  - DOMAIN-KEYWORD,hyl28000
+  - DOMAIN-KEYWORD,4kvm
+  - DOMAIN-KEYWORD,xiaoheimi
+  - DOMAIN-KEYWORD,dmxq
+  - DOMAIN-KEYWORD,cokemv
+  - DOMAIN-KEYWORD,5dy
+  - IP-CIDR,47.75.107.104/32,no-resolve
