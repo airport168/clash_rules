@@ -3,4 +3,4 @@ payload:
   - DOMAIN-KEYWORD,emby.
   - DOMAIN-KEYWORD, misakaf
   #pc端emby播放器进程名字
-  - PROCESS-NAME,ectron.exe
+  - PROCESS-NAME,electron.exe
