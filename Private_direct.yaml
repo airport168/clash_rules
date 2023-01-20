@@ -2,6 +2,7 @@ payload:
   # 内容：直连列表
   # 数量：5条
   - DOMAIN-KEYWORD,hyl28000
+  - DOMAIN-KEYWORD,ggyyds
   - DOMAIN-KEYWORD,4kvm
   - DOMAIN-KEYWORD,dmxq
   - DOMAIN-KEYWORD,cokemv
