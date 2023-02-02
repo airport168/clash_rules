@@ -8,4 +8,5 @@ payload:
   - DOMAIN-KEYWORD,dmxq
   - DOMAIN-KEYWORD,cokemv
   - DOMAIN-KEYWORD,555
+  - DOMAIN-KEYWORD,v2tun
   - IP-CIDR,47.75.107.104/32,no-resolve
