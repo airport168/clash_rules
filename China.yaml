@@ -339,8 +339,6 @@ payload:
   - DOMAIN-SUFFIX,mi-img.com
   - DOMAIN-SUFFIX,mi.com
   - DOMAIN-SUFFIX,miaopai.com
-  - DOMAIN-SUFFIX,microsoft.com
-  - DOMAIN-SUFFIX,microsoftonline.com
   - DOMAIN-SUFFIX,miui.com
   - DOMAIN-SUFFIX,miwifi.com
   - DOMAIN-SUFFIX,mob.com
@@ -438,7 +436,6 @@ payload:
   - DOMAIN-SUFFIX,rrmj.tv
   - DOMAIN-SUFFIX,rsc.org
   - DOMAIN-SUFFIX,ruguoapp.com
-  - DOMAIN-SUFFIX,s-microsoft.com
   - DOMAIN-SUFFIX,s-reader.com
   - DOMAIN-SUFFIX,sagepub.com
   - DOMAIN-SUFFIX,sandai.net
@@ -591,7 +588,6 @@ payload:
   - DOMAIN-KEYWORD,aliyun
   - DOMAIN-KEYWORD,baidu
   - DOMAIN-KEYWORD,beplay
-  - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,officecdn
   - DOMAIN-KEYWORD,taobao
   - IP-CIDR,1.255.62.0/24
