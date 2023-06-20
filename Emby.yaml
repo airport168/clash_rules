@@ -42,3 +42,5 @@ payload:
   - IP-CIDR,161.97.148.156/24
     #pc端emby播放器进程名字
   - PROCESS-NAME,electron.exe
+    #pc端emby播放器进程名字(调用potplayer外部播放器播放)
+  - PROCESS-NAME,PotPlayerMini64.exe
