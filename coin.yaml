@@ -1,0 +1,9 @@
+# NAME: bybit etc.     
+payload:
+  - DOMAIN-SUFFIX,tradingview.com
+  - DOMAIN-KEYWORD,binance
+  - DOMAIN-KEYWORD,okex
+  - DOMAIN-KEYWORD,bybit
+  - DOMAIN-KEYWORD,jin10
+  - DOMAIN-KEYWORD,oklink
+  - DOMAIN-KEYWORD,mexc
